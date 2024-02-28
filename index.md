@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Buea
 tags: example-tag
 region: Africa
+country: Cameroon
 meetup-group:
 
 ---

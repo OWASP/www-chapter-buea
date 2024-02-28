@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Kouti Divine](mailto:kouti.divine@owasp.org)
+* [Ramsey Ibe](mailto:ramsey.ibe@owasp.org)
+* [Tambe Salome](mailto:tambe.salome@owasp.org)

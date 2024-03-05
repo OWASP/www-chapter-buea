@@ -5,7 +5,7 @@
 * [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
 * [Code of Conduct](https://owasp.org/www-policy/operational/conferences-events.html)
 
-### Social Links)
+### Social Links
 * [Meetup.com](#)
 * [Twitter](#)
 * [Linkedin](#)

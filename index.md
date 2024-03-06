@@ -28,12 +28,3 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 No upcoming events yet.
 <!-- {% include chapter_events.html group=page.meetup-group %} -->
 
-<!-- You should delete this comment
-
-## Next Meeting/Event
----------------------
-{% comment %}
-{% include chapter_events.html group=page.meetup-group %}
-{% endcomment %}
-
--->

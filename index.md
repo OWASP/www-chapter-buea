@@ -35,10 +35,10 @@ This event is a fantastic opportunity for anyone interested in cybersecurity and
 
 **What to Expect:**
 
-  **- Deep Dives into 7 Cybersecurity Fields:** There will be panel discussions on seven critical cybersecurity and network domains.
-  **- Interactive Sessions:** Web application and network penetration testing demo's, along with wireless penetration testing, will be covered through interactive sessions.
-  **- Networking Opportunities:** Enjoy refreshments during coffee and snack breaks, and connect with fellow attendees and OWASP Buea Chapter members.
-  **- Community Introduction:** New to the cybersecurity community? We'll provide a warm welcome and introduce you to the OWASP Buea Chapter and its initiatives. 
+ **- Deep Dives into 7 Cybersecurity Fields:** There will be panel discussions on seven critical cybersecurity and network domains.
+ **- Interactive Sessions:** Web application and network penetration testing demo's, along with wireless penetration testing, will be covered through interactive sessions.
+ **- Networking Opportunities:** Enjoy refreshments during coffee and snack breaks, and connect with fellow attendees and OWASP Buea Chapter members.
+ **- Community Introduction:** New to the cybersecurity community? We'll provide a warm welcome and introduce you to the OWASP Buea Chapter and its initiatives. 
 
 <!-- No upcoming events yet. -->
 <!-- {% include chapter_events.html group=page.meetup-group %} -->

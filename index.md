@@ -25,7 +25,13 @@ The chapter leaders are <a href="mailto:kouti.divinen@owasp.org">Kouti Divine</a
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-
+```
+**Event: OWASP Chapter Buea Launch** 
+**Date: 024-05-25**
+**Time: 10:00 - 14:00 (WAT)**
+**Link:** https://www.meetup.com/owasp-buea-chapter/events/301016854/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link
+**Description:**
+```
 
 
 No upcoming events yet. 

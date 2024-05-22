@@ -26,33 +26,8 @@ The chapter leaders are <a href="mailto:kouti.divinen@owasp.org">Kouti Divine</a
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 
-|**Event:**     | OWASP Chapter Buea Launch          |
-| ----------- | ------------------------------------------- |
-| **Date:**       | **2024-05-25**                          |
-| **Time:**        | **10:00 - 14:00 (WAT)**                     |
-| **Link:**        | https://www.meetup.com/owasp-buea-chapter/events/301016854/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link     |
-| **Description:** |  |
-
-The OWASP Buea Chapter is excited to host its physical launch event on May 25th!
-This event is a fantastic opportunity for anyone interested in cybersecurity and networking to come together, learn, and connect with fellow professionals.
-
-**What to Expect:**
-
- **- Deep Dives into 7 Cybersecurity Fields:** There will be panel discussions on seven critical cybersecurity and network domains.
- **- Interactive Sessions:** Web application and network penetration testing demo's, along with wireless penetration testing, will be covered through interactive sessions.
- **- Networking Opportunities:** Enjoy refreshments during coffee and snack breaks, and connect with fellow attendees and OWASP Buea Chapter members.
- **- Community Introduction:** New to the cybersecurity community? We'll provide a warm welcome and introduce you to the OWASP Buea Chapter and its initiatives. 
-
----
-title: Supporters
-displaytext: Our Supporters
-layout: null
-tab: true
-order: 4
-tags: zap
----
 
 
-<!-- No upcoming events yet. -->
+No upcoming events yet. 
 <!-- {% include chapter_events.html group=page.meetup-group %} -->
 

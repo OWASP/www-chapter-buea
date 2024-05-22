@@ -25,11 +25,14 @@ The chapter leaders are <a href="mailto:kouti.divinen@owasp.org">Kouti Divine</a
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-**Event: OWASP Chapter Buea Launch**
-**Date: 2024-05-25**
-**Time: 10:00 - 14:00 (WAT)**
-**Location: Orange Digital Center, ASTI building, University of Buea**
-**Description:**
+
+|**Event:**     | OWASP Chapter Buea Launch          |
+| ----------- | ------------------------------------------- |
+| **Date:**       | **2024-05-25**                          |
+| **Time:**        | **10:00 - 14:00 (WAT)**                     |
+| **Link:**        | https://www.meetup.com/owasp-buea-chapter/events/301016854/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link     |
+| **Description:** |  |
+
 The OWASP Buea Chapter is excited to host its physical launch event on May 25th!
 This event is a fantastic opportunity for anyone interested in cybersecurity and networking to come together, learn, and connect with fellow professionals.
 

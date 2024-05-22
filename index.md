@@ -43,6 +43,16 @@ This event is a fantastic opportunity for anyone interested in cybersecurity and
  **- Networking Opportunities:** Enjoy refreshments during coffee and snack breaks, and connect with fellow attendees and OWASP Buea Chapter members.
  **- Community Introduction:** New to the cybersecurity community? We'll provide a warm welcome and introduce you to the OWASP Buea Chapter and its initiatives. 
 
+---
+title: Supporters
+displaytext: Our Supporters
+layout: null
+tab: true
+order: 4
+tags: zap
+---
+
+
 <!-- No upcoming events yet. -->
 <!-- {% include chapter_events.html group=page.meetup-group %} -->
 

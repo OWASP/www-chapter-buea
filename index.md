@@ -25,6 +25,8 @@ The chapter leaders are <a href="mailto:kouti.divinen@owasp.org">Kouti Divine</a
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
+Our events are posted on our meetup:
 
+please visit OWASP Buea meetup page to stay updated about our events:) : https://www.meetup.com/owasp-buea-chapter
 <!-- {% include chapter_events.html group=page.meetup-group %} -->
 

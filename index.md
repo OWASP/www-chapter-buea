@@ -26,9 +26,13 @@ The chapter leaders are <a href="mailto:kouti.divinen@owasp.org">Kouti Divine</a
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 Event: Web Application Security Texting with Owasp ZAP
+
 Date: 28/09/2024
+
 Time: 10:30 WAT
+
 Link: https://www.meetup.com/owasp-buea-chapter/events/303578887/
+
 Description: JOin us at Tech Chantier so as to learn about the most common vulnerabilities for Web applications listed in the OWASP Top 10 and how you can use OWASP ZAP to detect such vulnerabilities
 
 Other events around you

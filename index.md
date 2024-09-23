@@ -21,7 +21,7 @@ The Open Worldwide Application Security Project (OWASP) is a nonprofit foundatio
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. 
 
-The chapter leaders are <a href="mailto:kouti.divinen@owasp.org">Kouti Divine</a>, <a href="mailto:ramsey.ibe@owasp.org">Ramsey Ibe</a> and <a href="mailto:tambe.salome@owasp.org">Tambe Salome</a>. Follow chapter news on [Twitter](#), [Meetup.com](#), [EventBrite](#), [LinkedIn](#), Subscribe to our youtube channel to get recordings of our events [YouTube Channel](#)
+The chapter leaders are <a href="mailto:kouti.divinen@owasp.org">Kouti Divine</a>, <a href="mailto:ramsey.ibe@owasp.org">Ramsey Ibe</a> and <a href="mailto:tambe.salome@owasp.org">Tambe Salome</a>. Follow chapter news on [Twitter](https://x.com/owasp_buea), [Meetup.com](https://www.meetup.com/owasp-buea-chapter), [LinkedIn](https://cm.linkedin.com/company/owasp-buea), Subscribe to our youtube channel to get recordings of our events [YouTube Channel](#)
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------

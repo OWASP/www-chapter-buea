@@ -32,7 +32,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 
 **Time: 21:00 (WAT)** 
 
-**Link:** [https://www.meetup.com/owasp-buea-chapter/events/308313304](https://www.meetup.com/owasp-buea-chapter/events/308313304)
+**Link: [https://www.meetup.com/owasp-buea-chapter/events/308313304](https://www.meetup.com/owasp-buea-chapter/events/308313304)**
 
 **Description:** We’re excited to kick off OWASP Buea Chapter meetups for 2025! This will be our first session of the year, and we’re inviting developers, security professionals, students, and tech enthusiasts to join us for a practical and insightful virtual meetup. This session will focus on the growing importance of web and mobile application security. As more financial services and everyday tools move online especially in the banking and fintech space understanding how to secure these applications is no longer optional. We'll explore real-world security issues and how attackers exploit them, using a deliberately vulnerable banking application developed by Al-Amir Badmus. We’ll also take some time to reintroduce the OWASP Buea Chapter, meet the chapter leaders, and talk about what’s planned for the rest of the year.
 
